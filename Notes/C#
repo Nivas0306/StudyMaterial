@@ -6,4 +6,5 @@ Console.Write(""); ---> prints the line a stays in the line until said
 Difference Btw ' ' and " "
 the single ' ' will alowe only a songle value issrespective of Data type Ex: '1', 'd', 'v'.
 while double " " alows multiple and single value issrespective of Data type Ex: "The bay is bad", "life sucks".
+Hard-coded values are values that are constant and unchanged throughout the execution of the program.
 
