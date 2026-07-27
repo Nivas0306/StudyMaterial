@@ -4,6 +4,6 @@ diffrence Btw Console.WriteLine(""); and Console.Write("");
 Console.WriteLine(""); ---> print in the line and appends the line 
 Console.Write(""); ---> prints the line a stays in the line until said
 Difference Btw ' ' and " "
-the single ' ' will alowe only a songle value issrespective of vaiable Ex: '1', 'd', 'v'.
-while double " " alows multiple and single value issrespective of vaiable Ex: "The bay is bad", "life sucks".
+the single ' ' will alowe only a songle value issrespective of Data type Ex: '1', 'd', 'v'.
+while double " " alows multiple and single value issrespective of Data type Ex: "The bay is bad", "life sucks".
 
