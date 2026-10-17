@@ -1,0 +1,7 @@
+F:\Daily Logs\C# Study Program\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+F:\Daily Logs\C# Study Program\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
+F:\Daily Logs\C# Study Program\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
+F:\Daily Logs\C# Study Program\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.AssemblyReference.cache
+F:\Daily Logs\C# Study Program\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+F:\Daily Logs\C# Study Program\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
+F:\Daily Logs\C# Study Program\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb

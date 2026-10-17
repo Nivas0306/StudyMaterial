@@ -1,0 +1,7 @@
+F:\Daily Logs\C# Study Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\Arithmetic Operators.exe.config
+F:\Daily Logs\C# Study Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\Arithmetic Operators.exe
+F:\Daily Logs\C# Study Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\Arithmetic Operators.pdb
+F:\Daily Logs\C# Study Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.csproj.AssemblyReference.cache
+F:\Daily Logs\C# Study Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.csproj.CoreCompileInputs.cache
+F:\Daily Logs\C# Study Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.exe
+F:\Daily Logs\C# Study Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.pdb

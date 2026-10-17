@@ -1,0 +1,7 @@
+F:\Daily Logs\C# Study Program\Basic Calculater\Basic Calculater\bin\Debug\Basic Calculater.exe.config
+F:\Daily Logs\C# Study Program\Basic Calculater\Basic Calculater\bin\Debug\Basic Calculater.exe
+F:\Daily Logs\C# Study Program\Basic Calculater\Basic Calculater\bin\Debug\Basic Calculater.pdb
+F:\Daily Logs\C# Study Program\Basic Calculater\Basic Calculater\obj\Debug\Basic Calculater.csproj.AssemblyReference.cache
+F:\Daily Logs\C# Study Program\Basic Calculater\Basic Calculater\obj\Debug\Basic Calculater.csproj.CoreCompileInputs.cache
+F:\Daily Logs\C# Study Program\Basic Calculater\Basic Calculater\obj\Debug\Basic Calculater.exe
+F:\Daily Logs\C# Study Program\Basic Calculater\Basic Calculater\obj\Debug\Basic Calculater.pdb
